@@ -1,0 +1,18 @@
+=== KERNEL E SO ===
+Linux Notebook-giovani 7.0.0-44-generic #44-Ubuntu SMP PREEMPT_DYNAMIC Fri Nov  6 02:38:04 UTC 2026 x86_64 GNU/Linux
+Description:	Ubuntu 26.04.1 LTS
+
+=== CPU ===
+CPU(s):                                    8
+Lista de CPU(s) on-line:                   0-7
+Thread(s) per núcleo:                      2
+CPU(s) MHz de escala:                      84%
+CPU(s) de nó0 NUMA:                        0-7
+
+=== MEMORIA ===
+               total       usada       livre    compart.  buff/cache  disponível
+Mem.:           11Gi       2,7Gi       4,5Gi       420Mi       4,1Gi       8,4Gi
+Swap:          4,0Gi          0B       4,0Gi
+
+=== COMPILADOR ===
+gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0

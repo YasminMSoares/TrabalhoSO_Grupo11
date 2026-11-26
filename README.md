@@ -1,6 +1,6 @@
 # GBC045 — Sistemas Operacionais: Threads, Sincronização e Avaliação Multiplataforma (Tema 1)
 
-Repositório oficial do **Grupo 11** para o projeto prático da disciplina **GBC045 — Sistemas Operacionais** (Bacharelado em Ciência da Computação — Faculdade de Computação — Universidade Federal de Uberlândia, 2026/2).
+Repositório oficial do **Grupo 11** para o projeto prático da disciplina **GBC045 — Sistemas Operacionais** 
 
 ## Integrantes (Grupo 11)
 * **Gabriel Vieira Gama** — Matrícula: 12421BCC035 
@@ -8,7 +8,7 @@ Repositório oficial do **Grupo 11** para o projeto prático da disciplina **GBC
 * **Marco Thulio De Santi Roncolato** — Matrícula: 12421BCC036
 * **Yasmin Moreira Soares** — Matrícula: 12421BCC046
 
-> **Vídeo de Apresentação:** Disponível na pasta `video/` (ou via link `[INSERIR LINK DO VÍDEO CASO HOSPEDADO EXTERNAMENTE]`, 5–7 minutos, resolução $\ge$ 720p).
+> **Vídeo de Apresentação:** Disponível na pasta `video/`, 5–7 minutos, resolução $\ge$ 720p).
 
 ---
 
